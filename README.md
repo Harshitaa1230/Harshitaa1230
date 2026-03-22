@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-velvet.drafts-f4a7b9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/velvet.drafts)
+[![Instagram](https://img.shields.io/badge/Portfolio-velvet.drafts-f4a7b9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/velvet.drafts_?igsh=MWdsaDNyMHdkdW01NA==)
+[![Portfolio](https://harshitaupadhyayportfolio.framer.website/)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita_Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitaupadhyay-0a911433b)
 [![Email](https://img.shields.io/badge/Email-harshitaupadhyay2287-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitaupadhyay2287@gmail.com)
 
